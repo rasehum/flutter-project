@@ -1,4 +1,4 @@
-# project_firebase
+# KitsuFood
 
 A new Flutter project concentrating on creating an optimal food delivery app
 
