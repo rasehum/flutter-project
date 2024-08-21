@@ -1,16 +1,22 @@
 # project_firebase
 
-A new Flutter project.
+A new Flutter project concentrating on creating an optimal food delivery app
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Objectives
+Users will be able to order from the comfort of their own home
+User will be able to feedback to the system
+User will be able to check out the food item
+User will need to register and log in to view the food items
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Key Functional features
+Registration, Login, log out 
+Home page, about page, contact page
+Add item to cart
+Delete item from cart
+Edit item in cart
+Edit profile
+View detail page for food info
+Cart page
+Authentication via firebase 
+Data storage
